@@ -1,0 +1,3 @@
+algoritmo,nodos_expandidos,longitud_camino,tiempo_ms,optimo
+BFS,142,25,0.458,si
+DFS,65,65,0.194,no garantizado
