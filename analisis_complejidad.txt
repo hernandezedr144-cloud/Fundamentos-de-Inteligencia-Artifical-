@@ -1,0 +1,20 @@
+=== Puzzle8 ===
+Estados distintos generados (|V|): 31
+Transiciones (|E|): 44
+Factor de ramificacion promedio b: 2.93
+Profundidad de la primera meta alcanzada d: 0
+Complejidad temporal: O(b^d) para busqueda no informada.
+Complejidad espacial: O(b^d) si se guarda la frontera completa.
+Observacion: el espacio es finito y con estados repetidos, por lo que
+requiere deteccion de ciclos (conjunto de visitados) en cualquier algoritmo.
+
+=== Jarros ===
+Estados distintos generados (|V|): 14
+Transiciones (|E|): 50
+Factor de ramificacion promedio b: 3.57
+Profundidad de la primera meta alcanzada d: 6
+Estimacion de nodos b^d (orden de magnitud): 2,882
+Complejidad temporal: O(b^d) para busqueda no informada.
+Complejidad espacial: O(b^d) si se guarda la frontera completa.
+Observacion: el espacio es finito y con estados repetidos, por lo que
+requiere deteccion de ciclos (conjunto de visitados) en cualquier algoritmo.
