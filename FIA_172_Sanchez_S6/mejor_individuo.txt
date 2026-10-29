@@ -1,0 +1,5 @@
+Motor: DEAP real
+Cromosoma: 8 5 7 3 4 1 2 6 9 0
+Fitness: 309.6918
+Fitness de la generacion 1: 414.5191
+Fitness de la generacion final: 309.6918
